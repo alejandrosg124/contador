@@ -8,7 +8,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "test": "jest",
-    "alejandrogaytan":"jest --coverage"
+    "test2":"jest --coverage"
   },
   "dependencies": {
     "react": "^19.1.0",
